@@ -42,3 +42,4 @@ function calculate(operation) {
 
   resultDisplay.textContent = "Result: " + result;
 }
+
